@@ -1,0 +1,70 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.red-color{
+    color: red;
+}
+.healthy-food img {
+    width: 100%;
+}
+.naiem-food {
+width: 50%;
+}
+.healthy-food{
+    width: 50%;
+    padding-left: 2%;
+}
+.healthy-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.link-button{
+   text-decoration: none;
+   background-image: linear-gradient(red, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.eat-healthy{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.raftaar-naiem{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    border-radius: 5px;
+}
+.naiem{
+    width: 10%;
+}
+#moon{
+    text-align: center;
+    color: white;
+}
+.bg-img{
+background-color: black;
+height: 250px;
+}
+.ashe-color{
+    color: rgb(128, 125, 125);
+}
+#zini{
+    text-align: center;
+}
+#text-center{
+    text-align: center;
+}
