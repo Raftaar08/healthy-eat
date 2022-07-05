@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
+    padding: 0px;
 }
 h1{
     font-size: 50px;
@@ -46,7 +47,7 @@ width: 50%;
     margin-left: 5%;
     margin-right: 5%;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 .naiem{
     width: 10%;
@@ -57,7 +58,7 @@ width: 50%;
 }
 .bg-img{
 background-color: black;
-height: 250px;
+height: 200px;
 }
 .ashe-color{
     color: rgb(128, 125, 125);
@@ -67,4 +68,9 @@ height: 250px;
 }
 #text-center{
     text-align: center;
+}
+.food-bg{
+    background-image: url(images/food/Project\ Cover4.png);
+    background-repeat: no-repeat;
+    height: 500px;
 }
